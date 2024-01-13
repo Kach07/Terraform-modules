@@ -1,2 +1,2 @@
-# Terraform-module
+# Terraform-modules
 This repo stores terraform modules
